@@ -14,3 +14,5 @@ elif int(qemtn) == 5:
 elif int(qemtn) > 5:
     dict['key1'] = (qemtn)
     dtrmn = print('Glad to hear your feeling well today.')
+  
+#(Coordinating responses may be changed or modified in the future for more efficient data storage)
